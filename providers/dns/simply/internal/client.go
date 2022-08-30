@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-const defaultBaseURL = "https://api.simply.com/1/"
+const defaultBaseURL = "https://api.simply.com/2/"
 
 // Client is a Simply.com API client.
 type Client struct {
